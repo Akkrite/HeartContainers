@@ -1,0 +1,10 @@
+name: HeartContainer
+main: com.mctourney.heart.HeartContainer
+author: JonathanH
+website: mctourney.com
+version: 1.0.0
+api-version: 1.13
+commands:
+  maxhealth:
+  spawnheart:
+    aliases: [sh, hs]
